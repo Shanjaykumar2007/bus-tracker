@@ -3,7 +3,7 @@
 # BLOCK DIAGRAM
 
 ![][image1]
-
+![image1](blockdiagram.jpeg)
 ## SCHEMATIC DIAGRAM
 
 ![][image2]
